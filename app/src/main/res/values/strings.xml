@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyVideoPlayer</string>
+    <string name="refresh">刷新</string>
+    <string name="in_refresh">停止刷新</string>
+    <string name="video_name">视频名称:</string>
+    <string name="video_width_height">视频尺寸:</string>
+    <string name="video_size">文件大小:</string>
+    <string name="created_time">创建时间:</string>
+    <string name="unknown">unknown</string>
+    <string name="string_about">关于</string>
+</resources>
